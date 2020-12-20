@@ -10,7 +10,7 @@ git clone https://github.com/TermuxHackz/FHF.git
 
 cd FHF
 
-./FHF.sh
+bash FHF.sh
 ```
 Thanks for installing the tool
 
